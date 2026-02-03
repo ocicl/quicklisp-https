@@ -4,7 +4,7 @@ Patch for Quicklisp client to enable HTTPS access using Dexador
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/snmsts/quicklisp-https.git     |
-| commit  | 11f4112                                                |
+| commit  | 2be6cb8                                                |
 | systems | quicklisp-https                                        |
 |---------+--------------------------------------------------------|
 
